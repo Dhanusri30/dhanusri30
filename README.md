@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m interese in web development and data analyst
+- 🔭 I’m interest in web development and data analyst
 - 🌱 I’m currently learning:Java, React, Bootstrap,Machine learning
 - 👯 I’m looking to collaborate on :Frontend or full-stack projects and open-source contributions
 - 🤔 I’m looking for help with :Improving backend skills and mastering frameworks
